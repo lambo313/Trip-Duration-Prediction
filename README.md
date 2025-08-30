@@ -29,8 +29,6 @@ web/
     form.html                  # Input form for predictions
     web.html                   # Main web template
 run.sh                             # Pipeline script to run all steps
-README.md                          # Project documentation
-HELP.md                            # Additional help
 ```
 
 ## Pipeline Steps
